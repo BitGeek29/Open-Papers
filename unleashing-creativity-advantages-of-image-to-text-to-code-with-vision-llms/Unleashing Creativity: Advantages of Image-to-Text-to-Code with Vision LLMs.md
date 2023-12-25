@@ -3,10 +3,10 @@
 **Author: Haseeb Shaikh**
 
 **Abstract:**
-This white paper explores the groundbreaking concept of "Image-to-Text-to-Code" by harnessing the power of Vision Large Language Models (Vision LLMs). Authored by Haseeb Shaikh, these models promise to redefine the coding landscape, providing an innovative bridge between visual information, textual representation, and executable code.
+This white paper explores the concept of "Image-to-Text-to-Code" by harnessing the power of Vision Large Language Models (Vision LLMs). Authored by Haseeb Shaikh, these models promise to redefine the coding landscape, providing an innovative bridge between visual information, textual representation, and executable code.
 
 **1. Introduction:**
-The integration of artificial intelligence has brought about transformative changes across various domains. This paper introduces the revolutionary concept of "Image-to-Text-to-Code," leveraging Vision Large Language Models.
+The integration of artificial intelligence has brought about transformative changes across various domains. This paper introduces the concept of "Image-to-Text-to-Code," leveraging Vision Large Language Models.
 
 **2. Vision LLMs:**
 Vision LLMs, an extension of Large Language Models, focus on deciphering and understanding visual data. These models excel in recognizing intricate details within images, laying the foundation for the seamless integration of visual information into the coding process.
