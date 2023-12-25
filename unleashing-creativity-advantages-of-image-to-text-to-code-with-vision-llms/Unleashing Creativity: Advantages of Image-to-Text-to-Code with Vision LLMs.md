@@ -89,7 +89,7 @@ Example Scenario: Layout Generation
 		Note: The given context aims to help the AI programmer understand the UI's purpose and goals for potential enhancements without visual reference.
 		```
 
-        ![alt text](https://github.com/BitGeek29/Open-Papers/tree/main/unleashing-creativity-advantages-of-image-to-text-to-code-with-vision-llms/prompt_image.jpeg?raw=true)
+![alt text](https://github.com/BitGeek29/Open-Papers/tree/main/unleashing-creativity-advantages-of-image-to-text-to-code-with-vision-llms/prompt_image.jpeg?raw=true)
    
 
        
