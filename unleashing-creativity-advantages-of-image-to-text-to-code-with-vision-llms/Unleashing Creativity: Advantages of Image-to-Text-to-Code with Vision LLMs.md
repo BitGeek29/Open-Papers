@@ -294,3 +294,6 @@ Example Scenario: Layout Generation
 		```
 
 		This is a basic representation and can be customized further based on your specific requirements. Make sure to replace placeholder image URLs with your actual image URLs. Tailwind CSS classes are used for styling, providing a clean and responsive design.
+
+
+![code result image](code_result.png)
